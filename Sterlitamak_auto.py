@@ -145,7 +145,7 @@ for j in flist:
 
     t=UTCDateTime(block.datetime)
     tstart=t-60*10
-    tend=t+60*10
+    tend=t+60*5
 
     st_u01 = read(u01, starttime=tstart, endtime=tend)
     st_u02 = read(u02, starttime=tstart, endtime=tend)
