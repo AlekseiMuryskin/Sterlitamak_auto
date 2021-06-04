@@ -125,7 +125,7 @@ class Block():
 pth='y:\\Work\\Мурыськин_Алексей\\Стерлитамак\\Сырые блоки\\'
 pth2='y:\\Work\\Мурыськин_Алексей\\Стерлитамак\\\Готовые блоки\\'
 pth3='y:\\Work\\Мурыськин_Алексей\\Стерлитамак\\msd\\'
-pth_data='r:\\data\\!region_data_streams\\shahtau\\seismograms\\202104\\'
+pth_data='r:\\data\\!region_data_streams\\shahtau\\seismograms\\2021\\04\\'
 
 flist=os.listdir(pth)
 
